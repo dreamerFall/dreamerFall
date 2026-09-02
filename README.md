@@ -1,1 +1,1 @@
-![Shadow kitty](https://github-stats-alpha.vercel.app/api?username=dreamerFall&cc=000&tc=fff&ic=fff&bc=000)
+![Shadow kitty](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
